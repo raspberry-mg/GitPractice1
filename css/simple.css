@@ -38,3 +38,8 @@
     .slick-current {
       opacity: 1;
     }
+
+	.logo {
+		color: #ffc107;
+		font-weight: bold;
+	}
