@@ -1,6 +1,6 @@
 # GitPractice1
 
-Developers:
+List of the developers:
 
 1. Yelysei - https://github.com/yelyseibocharov
 2. Kate - https://github.com/KateCreepyCat
