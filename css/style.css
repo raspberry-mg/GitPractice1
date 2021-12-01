@@ -654,3 +654,7 @@ ul.nav li a {
     margin-bottom: 20px;
   }
 }
+
+.slick-slide img {
+  border-radius: 30px;
+}
