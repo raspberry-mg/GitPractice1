@@ -69,6 +69,7 @@
         <div><img src="./images/Screen-Shot-2021-08-24-at-11.33.06-AM.png" alt=""></div>
     </div>
 </div>
+<?php include 'layouts/footer.php'?>
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
