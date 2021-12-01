@@ -1,6 +1,4 @@
-/* http://prismjs.com/download.html?themes=prism-coy&languages=markup+css+clike+javascript */
-/**
- * prism.js Coy theme for JavaScript, CoffeeScript, CSS and HTML
+/* http://prismjs.com/download.html?themes=prism-coy&languages=markup+css+clike+javascript
  * Based on https://github.com/tshedor/workshop-wp-theme (Example: http://workshop.kansan.com/category/sessions/basics or http://workshop.timshedor.com/category/sessions/basics);
  * @author Tim  Shedor
  */
@@ -18,7 +16,6 @@ pre[class*="language-"] {
   line-height: 1.5;
 
   -moz-tab-size: 4;
-  -o-tab-size: 4;
   tab-size: 4;
 
   -webkit-hyphens: none;
@@ -63,8 +60,6 @@ pre[class*="language-"] {
   padding: 0.2em;
   -webkit-border-radius: 0.3em;
   -moz-border-radius: 0.3em;
-  -ms-border-radius: 0.3em;
-  -o-border-radius: 0.3em;
   border-radius: 0.3em;
   color: #c92c2c;
   border: 1px solid rgba(0, 0, 0, 0.1);
